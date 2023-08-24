@@ -118,6 +118,11 @@ Training Set Graph:
 
 ![Output7](https://github.com/Mathiofficial/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118787327/5e5ec5aa-4176-4da0-aff2-710a2abc62b1)
 
+Test Set Graph:
+
+![Output8](https://github.com/Mathiofficial/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118787327/f4af40b2-7262-4a7a-ad46-083b221ba5ec)
+
+
 Values of MSE, MAE and RMSE:
 
 ![Output9](https://github.com/Mathiofficial/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118787327/858344e7-1340-4141-8ca4-b59ac26d18d6)
