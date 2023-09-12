@@ -93,9 +93,12 @@ df.head():
 
 
 ![Output1](https://github.com/Mathiofficial/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118787327/1a0c8cbd-643c-4eae-9fe0-a770309e9ed7)
+
+
 df.tail():
 
 ![Output2](https://github.com/Mathiofficial/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118787327/c3065a4c-02ee-45c7-bcf3-f319dc16b314)
+
 
 Array value of X:
 
